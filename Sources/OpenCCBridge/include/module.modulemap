@@ -1,0 +1,4 @@
+module OpenCCBridge {
+        header "bridge.h"
+        export *
+}
